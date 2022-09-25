@@ -6,7 +6,7 @@ public class Encapsulation {
 	//Encapsulation used to hide the data using setter and getter method
 	
 	private String name ="upskill";				//write & read
-	private int ssn = 512456125;				//write only
+	private int ssn = 6539254;				//write only
 	private String username = "upskill";		//read only
 	
 	
