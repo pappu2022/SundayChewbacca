@@ -9,7 +9,7 @@ public class MethodType {
 	 	3.Return Type Method */
 	
 	
-	public static int hourlyIncome=65;                           // income per hour $65
+	public static int hourlyIncome=55;                           // income per hour $65
 	
 	public static void main(String[] args) {
 		MethodType obj = new MethodType();
@@ -20,9 +20,9 @@ public class MethodType {
 	
 //void method
 	public void AnnualIncome(){
-		int annualIncome = hourlyIncome *2000;
+		int annualIncome = hourlyIncome *1500;
 		System.out.println("My Annual Income = " + annualIncome);
-	}
+	} //updated
 	
 	
 	//static method
