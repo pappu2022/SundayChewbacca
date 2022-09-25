@@ -10,7 +10,7 @@ public class AbstractClassImplementation extends AbstractClass {
 
 	@Override
 	public void iSeat() {
-		int seat =4;
+		int seat =8;
 		
 	}
 
