@@ -21,7 +21,7 @@ public class Ploymorphism {
 	//Same method name from Parent class to override
 	
 	public static void weeklyIncomeStatic(){
-		int weeklyIncome = hourlyIncome * 40 +5000;
+		int weeklyIncome = hourlyIncome * 40 +3000;
 		System.out.println("My Weekly Income = " + weeklyIncome);	
 	}
 
