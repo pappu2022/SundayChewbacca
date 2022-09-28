@@ -12,7 +12,7 @@ public class Ploymorphism {
 		car();
 		car(4);
 		car(2, 4);
-		car("Blue");
+		car("Pink");
 		//changed color from red to blue
 		weeklyIncomeStatic();
 	}
