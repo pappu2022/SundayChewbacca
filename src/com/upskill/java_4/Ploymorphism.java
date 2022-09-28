@@ -12,8 +12,8 @@ public class Ploymorphism {
 		car();
 		car(4);
 		car(2, 4);
-		car("Red");
-		
+		car("Blue");
+		//changed color from red to blue
 		weeklyIncomeStatic();
 	}
 	
@@ -21,7 +21,7 @@ public class Ploymorphism {
 	//Same method name from Parent class to override
 	
 	public static void weeklyIncomeStatic(){
-		int weeklyIncome = hourlyIncome * 40 +1000;
+		int weeklyIncome = hourlyIncome * 40 +5000;
 		System.out.println("My Weekly Income = " + weeklyIncome);	
 	}
 
